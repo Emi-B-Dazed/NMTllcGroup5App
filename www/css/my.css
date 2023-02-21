@@ -1,0 +1,37 @@
+#border{
+    border: 5px solid #00749B;
+    background-color: #ECECEC;
+	vertical-align: text-top;
+	padding: 10px;
+	padding: 10px;
+	text-align: center;
+		
+	}
+#button{
+    font-family: arial;
+	border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	margin: 10px;
+	padding: 5px 15px;
+	background: #D4FFBE;
+	color: #4B0082;
+	list-line-type: none;
+	}
+	
+#open { 
+    display: block;
+    margin-bottom: 5px;
+    border-style: inset;
+    border-width: 15px;
+	border-color: #00BFFF;
+	border-bottom-color: #80DFFF;
+	border-right-color: #80DFFF;
+    } 
+body {
+	background: #80DFFF;
+	text-align: center;
+}
